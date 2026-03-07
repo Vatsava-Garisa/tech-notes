@@ -1,4 +1,4 @@
-s
+
 - TypeScript does not have its own module system.
 - TypeScript's Job:
 	- *Translate my TypeScript `import/export` into the correct JavaScript syntax for the runtime.*
